@@ -55,7 +55,7 @@ you, at write time, and thus is
 (mostly) set in stone by the time the lexer
 processes your co.
 
-![](/blob.jpg)
+![](/photo1.jpg)
 
 >Scope –Global Scope
 
@@ -63,7 +63,7 @@ A variable declared at the top of a
 program or outside of a function is 
 considered a global scope variable.
 
-![](/blob%202.jpg)
+![](/blob.jpg)
 
 >Scope – Local Scope
 
