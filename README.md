@@ -139,7 +139,7 @@ doesn't.
 
 ![](/blob%204.jpg)
 
->Closure
+# Closure
 
 Closure is one of the most 
 important, and often least 
