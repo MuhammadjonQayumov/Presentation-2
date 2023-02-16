@@ -77,4 +77,60 @@ only inside the greet function. Hence,
 when we try to access variable b outside 
 of the function, an error occurs.
 
+# Hoisting
 
+> Hoisting - Variable
+
+There’s a temptation to think that all of the code you see in a 
+JavaScript
+program is interpreted line-by-line, top-down in order, as the 
+program
+execute. While that is essentially true, there’s one part of that 
+as‐
+assumption that can lead to incorrect thinking about your 
+program.
+
+>Hoisting – Function Declaration
+
+So, one way of thinking, sort of metaphorically, about this process, is
+that variable and function declarations are “moved” from where they
+appear in the flow of the code to the top of the code. This gives rise to
+the name hoisting.
+The function foo’s declaration (which in this case includes the implied value of 
+it as an actual function) is hoisted, such that the call on the first line is able to 
+execute
+
+>Hoisting – Function Expression
+
+Function declarations are hoisted, as we just saw. 
+But function expressions are not.
+The variable identifier foo is hoisted and attached to the enclosing
+scope(global) of this program, so foo() doesn't fail as a ReferenceError. 
+But foo has no value yet (as it would if it had been a true function
+declaration instead of expression). So, foo() is attempting to invoke
+the undefined value, which is a Type Error illegal operation.
+
+# Recursion
+
+>Recursion
+
+![](/R1.jpg)
+
+Recursion is a process of calling itself. A function that 
+calls itself is called a recursive function.
+
+The syntax for recursive function is:
+
+![](/photo1.jpg)
+
+>Recursion
+
+A recursive function must have a condition to stop calling itself. Otherwise, 
+the function is called indefinitely.
+
+Once the condition is met, the function stops calling itself. This is called the 
+base condition.
+
+To prevent infinite recursion, you can use if...else statement (or similar 
+approach) where one branch makes the recursive call, and the other 
+doesn't.
