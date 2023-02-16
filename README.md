@@ -17,18 +17,20 @@ addNumbers
 
 • The body of function is written within {}.
 
- In previous page , we have declared a function named 
+In previous page , we have declared a function named 
 greet(). To use that function, we need to call it.
  
- Here's how you can call the above greet() function.
+Here's how you can call the above greet() function.
+
+![](/func1.png)
 
 
 >Function – Expression
 
-  Variable x is used to store the function. 
+Variable x is used to store the function. 
 Here the function is treated as an 
 expression. And the function is called 
 using the variable name.
 
-  The function is called an anonymous 
+The function is called an anonymous 
 function.
