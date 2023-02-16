@@ -77,6 +77,8 @@ only inside the greet function. Hence,
 when we try to access variable b outside 
 of the function, an error occurs.
 
+![](/blob 2.jpg)
+
 # Hoisting
 
 > Hoisting - Variable
@@ -121,7 +123,7 @@ calls itself is called a recursive function.
 
 The syntax for recursive function is:
 
-![](/photo1.jpg)
+![](/blob%203.jpg)
 
 >Recursion
 
@@ -134,3 +136,19 @@ base condition.
 To prevent infinite recursion, you can use if...else statement (or similar 
 approach) where one branch makes the recursive call, and the other 
 doesn't.
+
+![](/blob%204.jpg)
+
+>Closure
+
+Closure is one of the most 
+important, and often least 
+understood, concepts in 
+JavaScript. You can think of 
+closure as a way to 
+“remember” and continue to 
+access a function’s scope (its 
+variables) even once the 
+function has finished running.
+
+![](/OIP%205.jpga)
