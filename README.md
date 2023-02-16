@@ -151,4 +151,4 @@ access a function’s scope (its
 variables) even once the 
 function has finished running.
 
-![](/OIP%205.jpga)
+![](/OIP%205.jpg)
