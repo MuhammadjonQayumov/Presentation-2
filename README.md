@@ -1,4 +1,4 @@
-# Lecture 3
+<!-- # Lecture 3
 
 1)Functions   2)Scope   3)Hoisting   4)Hoisting
 
@@ -151,4 +151,18 @@ access a function’s scope (its
 variables) even once the 
 function has finished running.
 
-![](/OIP%205.jpg)
+![](/OIP%205.jpg) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
