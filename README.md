@@ -72,3 +72,19 @@
 >Node.appendChild() добавляет узел в конец списка >дочерних элементов указанного родительского узла. >Если данный дочерний элемент является ссылкой на >существующий узел в документе, то функция >appendChild() перемещает его из текущей позиции в >новую позицию (нет необходимости удалять узел из >родительского узла перед добавлением его к >какому-либо другому узлу).
 >
 >![](/be.png)
+
+##### appendChild()
+
+>To create a paragraph with a text.
+>•Create a paragraph element
+>•Create a text node
+>•Append the text node to the paragraph
+>•Append the paragraph to the document
+>
+>![](/b2.png)
+
+##### classlist()
+
+>The Element.classList is a read-only property that >returns a live DOMTokenList collection of the class >attributes of the element. This can then be used to >manipulate the class list.
+>
+>Using classList is a convenient alternative to >accessing an element's list of classes as a >space-delimited string via element.className.
