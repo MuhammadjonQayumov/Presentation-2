@@ -56,4 +56,19 @@
 >
 >Below are the global event attributes that can be >added to HTML elements to define event actions.
 
+
+#### createElement()
+
+>The JavaScript document.createElement() method >allows you to create and return a
+>new element (an empty Element node) with the >specified tag name.
+
+## Html events
+
 ![](/HTML-Event-2.png)
+
+
+##### HTML DOM Element appendChild()
+
+>Node.appendChild() добавляет узел в конец списка >дочерних элементов указанного родительского узла. >Если данный дочерний элемент является ссылкой на >существующий узел в документе, то функция >appendChild() перемещает его из текущей позиции в >новую позицию (нет необходимости удалять узел из >родительского узла перед добавлением его к >какому-либо другому узлу).
+
+1[](/be.png)
