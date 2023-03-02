@@ -35,3 +35,25 @@
 >The DOM represents a document with a logical tree. >Each branch of the tree ends in a node, and each >node contains objects. DOM methods allow >programmatic access to the tree. With them, you can >change the document's structure, style, or content.
 >
 >Nodes can also have event handlers attached to >them. Once an event is triggered, the event >handlers get executed.
+
+#### array methods
+
+>The Style object represents an
+>individual style statement.
+
+>innerHTML - Это свойство предоставляет простой >способ полностью
+>заменить содержимое элемента.
+
+#### Html events …
+
+>Global Event Attributes
+>
+>
+>
+>HTML has the ability to let events trigger actions >in a browser, like starting a JavaScript when a >user clicks on an element.
+>
+>To learn more about programming events, please >visit our JavaScript tutorial.
+>
+>Below are the global event attributes that can be >added to HTML elements to define event actions.
+
+![](/HTML-Event-2.png)
